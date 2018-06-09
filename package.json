@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "workspaces": [
+        "stardust-core",
+        "stardust-webgl",
+        "stardust-isotype",
+        "stardust-bundle",
+        "stardust-examples",
+        "stardust-playground"
+    ],
+    "devDependencies": {
+        "multirun": "^2.0.0"
+    }
+}

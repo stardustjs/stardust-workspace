@@ -1,0 +1,21 @@
+[submodule "stardust-core"]
+	path = stardust-core
+	url = https://github.com/stardustjs/stardust-core.git
+[submodule "stardust-webgl"]
+	path = stardust-webgl
+	url = https://github.com/stardustjs/stardust-webgl.git
+[submodule "stardust-isotype"]
+	path = stardust-isotype
+	url = https://github.com/stardustjs/stardust-isotype.git
+[submodule "stardust-examples"]
+	path = stardust-examples
+	url = https://github.com/stardustjs/stardust-examples.git
+[submodule "stardust-playground"]
+	path = stardust-playground
+	url = https://github.com/stardustjs/stardust-playground.git
+[submodule "stardust-allofw"]
+	path = stardust-allofw
+	url = https://github.com/stardustjs/stardust-allofw.git
+[submodule "stardust-bundle"]
+	path = stardust-bundle
+	url = https://github.com/stardustjs/stardust-bundle.git
