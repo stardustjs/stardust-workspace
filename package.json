@@ -10,5 +10,9 @@
     ],
     "devDependencies": {
         "multirun": "^2.0.0"
+    },
+    "scripts": {
+        "build": "node utils/build.js",
+        "watch": "node utils/build.js watch"
     }
 }
