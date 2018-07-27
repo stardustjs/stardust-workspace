@@ -19,3 +19,6 @@
 [submodule "stardust-bundle"]
 	path = stardust-bundle
 	url = https://github.com/stardustjs/stardust-bundle.git
+[submodule "stardustjs.github.io"]
+	path = stardustjs.github.io
+	url = https://github.com/stardustjs/stardustjs.github.io.git
